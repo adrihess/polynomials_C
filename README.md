@@ -1,5 +1,5 @@
 # polynomials_C
-Big tast for IPP 2020/21 year at MIMUW - calculator of polynomials
+Big task for IPP 2020/21 year at MIMUW - calculator of polynomials
 
 In order to create executable file it is required to use following sequence of commands (from level of IPP-ah431481 directory):
 
